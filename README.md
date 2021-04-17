@@ -1,1 +1,2 @@
-# circle-menu
+Download the zip file.
+Unzip file
